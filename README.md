@@ -2,7 +2,7 @@
 > Interactive console for wireless attack
 
 ## Features
-yuDoS can scan and attack network devices around to make them offline, or even cannot be back unless you stop attacking.
+yuDoS can scan and attack nearby network devices, taking them offline—or even keeping them offline until you stop the attack.
 
 The following modules are available, and you can also type `use help` to view:
 ```bash
@@ -136,7 +136,7 @@ yuDoS attack(deauth/carpet/flood) > attack
 - yuDoS supports `-x COMMAND(S)` to execute internal command without interactive console, `-r FILE` to load and execute the resource file.
 Use `yudos -h` for additional help of global flags.  
 - Within the console, use `help` for additional help of internal command.
-- Within the console, use `[Command] help` like `set help` for additional help of subcommand or parameters.
+- Within the console, use `[Command] help` like `set help` for additional help of subcommands or parameters.
 
 ## Live demo
 
